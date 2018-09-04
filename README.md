@@ -1,6 +1,4 @@
-#API 
-
-POSTMAN: 
+# POSTMAN
 
 POST /api/token HTTP/1.1
 Host: accounts.spotify.com
